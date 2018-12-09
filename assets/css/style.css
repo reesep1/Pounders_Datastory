@@ -1,0 +1,17 @@
+/* style.css */
+
+body {
+  font-size:2em;
+  color: #AAAAAA;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 1em 2em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3em;
+}
